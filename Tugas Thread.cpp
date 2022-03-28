@@ -1,5 +1,5 @@
 #include <iostream> 
-//standard library input/output stream a
+//standard library input/output stream
 #include <thread>
 //standard library pemrograman multithreading
 #include <mutex>
